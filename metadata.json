@@ -1,0 +1,6 @@
+{
+  "name": "Wordle Simple",
+  "description": "เกมทายคำศัพท์ภาษาอังกฤษ 5 ตัวอักษรเวอร์ชันเข้าใจง่าย พร้อมคีย์บอร์ดเสมือนและระบบตรวจคำตามกฎ Wordle",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
